@@ -5,7 +5,7 @@ module.exports = {
     title: 'Imdad Hussain',
     description:
       'Imdad Hussain  is a software engineer based in Islamabad, PK specializing in building (and occasionally designing) exceptional mobile applications and website.',
-    siteUrl: 'https://hussain-imdad004.medium.com/', // No trailing slash allowed!
+    siteUrl: 'http://hussain.imdad.github.io/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@imdadhusssain'
 
@@ -152,7 +152,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'UA-456',
       },
     },
   ],
